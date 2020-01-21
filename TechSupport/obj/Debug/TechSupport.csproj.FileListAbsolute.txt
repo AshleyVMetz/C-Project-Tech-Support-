@@ -1,0 +1,12 @@
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.Properties.Resources.resources
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.View.LoginForm.resources
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.csproj.GenerateResource.cache
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.pdb
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.View.MainForm.resources
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.csprojAssemblyReference.cache
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.View.AddIncident.resources
+C:\Users\mrsas\Desktop\CS6232\TechSupport\TechSupport\obj\Debug\TechSupport.View.Search.resources
